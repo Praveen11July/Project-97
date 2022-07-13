@@ -1,0 +1,66 @@
+h1 {
+    background-color: aquamarine;
+    text-decoration: wavy;
+
+
+}
+#addition_div {
+    width: 80%;
+    border-radius: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    border: 5px solid blue;
+    box-shadow: 5px 5px 30px gray;
+    background-color: azure;
+    padding: 20px;
+
+
+}
+#subtraction_div {
+    width: 80%;
+    border-radius: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    border: 5px solid green;
+    box-shadow: 5px 5px 30px gray;
+    background-color: pink;
+    padding: 20px;
+
+
+}
+#multiplication_div {
+   
+    width: 80%;
+    border-radius: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    border: 5px solid green;
+    box-shadow: 5px 5px 30px gray;
+    background-color: blue;
+    padding: 20px;
+    }
+#division_div {
+    width: 80%;
+    border-radius: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    border: 5px solid green;
+    box-shadow: 5px 5px 30px gray;
+    background-color:red;
+    padding: 20px;
+
+
+
+}
+button {
+background-color: black;
+color: white;
+padding: 10px;
+font-size: 20px;
+border-radius: 10px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+
+}
+body {
+    background-image: linear-gradient(to right top, #5276ae, #4dac51, #d7b072, #56b9af, #360094);
+
+
+
+}
